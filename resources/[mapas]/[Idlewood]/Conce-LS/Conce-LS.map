@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (ADAM_V_DOOR) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1569" scale="1" doublesided="false" collisions="true" posX="540.70001" posY="-1294.3" posZ="16.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ADAM_V_DOOR) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1569" scale="1" doublesided="false" collisions="true" posX="543.59998" posY="-1294.3" posZ="16.2" rotX="0" rotY="0" rotZ="180.5"></object>
+    <object id="object (int_rest_veg03) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="18014" scale="1" doublesided="false" collisions="true" posX="546" posY="-1294" posZ="16.7" rotX="0" rotY="0" rotZ="89.5"></object>
+    <object id="object (int_rest_veg03) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="18014" scale="1" doublesided="false" collisions="true" posX="538.40002" posY="-1293.9" posZ="16.7" rotX="0" rotY="0" rotZ="89.495"></object>
+    <object id="object (sfx_plant03) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3802" scale="1" doublesided="true" collisions="true" posX="544.29999" posY="-1293.6" posZ="18.7" rotX="0" rotY="0" rotZ="92"></object>
+    <object id="object (sfx_plant03) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="3802" scale="1" doublesided="true" collisions="true" posX="540" posY="-1293.6" posZ="18.7" rotX="0" rotY="0" rotZ="92"></object>
+</map>

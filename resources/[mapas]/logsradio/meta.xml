@@ -1,0 +1,4 @@
+<meta>
+    <script src="server.lua" type="server" />
+    <export function="addLogMessage" type="server" />
+</meta>

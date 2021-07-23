@@ -1,0 +1,44 @@
+<meta>
+    <script src="s.lua" type="server" />
+    <script src="c.luac" type="client" />
+    <export function="asignarBinds" type="server" />
+    <export function="crearVehiculo" type="server" />
+    <export function="usarLlaves" type="server" />
+    <export function="quitarRecipienteMaletero" type="server" />
+    <export function="quitarID" type="server" />
+	<export function="cambiarPropietario" type="server" />
+	<export function="llenarGasolina" type="server" />
+	<export function="getPropietario" type="server" />
+	<export function="getVehiculosFromName" type="server" />
+	<export function="getPropietarioFromMatricula" type="server" />
+    
+    <export function="isCursorInMaletero" type="client" />
+    <export function="ponerItemEnMaletero" type="client" />
+    <export function="isMaleteroOpened" type="client" />
+    
+    <script src="SpeedoMeterGUI.lua" type="client" />
+    <script src="SpeedoMeterVehicle.lua" type="client" />
+    <script src="SpeedoMeterUtils.lua" type="client" />
+    
+    <!-- textures  -->
+    <file src="textures/speedometerBG.png" type="client" />
+    <file src="textures/speedometerBG2.png" type="client" />
+    <file src="textures/speedometerNeedleWhite.png" type="client" />
+    <file src="textures/speedometerNeedleRed.png" type="client" />
+    <file src="textures/speedometerOverlay.png" type="client" />
+    <file src="textures/speedometerGlass.png" type="client" />
+    <file src="textures/gray.png" type="client" />
+    <file src="textures/puerta.png" type="client" />
+    <file src="textures/freno.png" type="client" />
+    <file src="textures/luces.png" type="client" />
+    <file src="textures/gasolina.png" type="client" />
+    
+    <!-- fonts  -->
+    <file src="fonts/Prototype.ttf" />
+    <file src="fonts/lcd.ttf" />
+    
+    <!-- exports  -->
+    <export function="getVehicleSpeed" type="client" />
+    <export function="getVehicleRPM" type="client" />
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

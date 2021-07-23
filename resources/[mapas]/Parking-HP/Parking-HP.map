@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (carimp_LAn) (1)" breakable="true" interior="24" alpha="255" dimension="500" model="4032" scale="1" doublesided="true" collisions="true" posX="-1424.7" posY="-576.09998" posZ="19.1" rotX="0" rotY="0" rotZ="116"></object>
+    <object id="object (vgElkup) (1)" breakable="true" interior="24" alpha="255" dimension="500" model="8947" scale="1" doublesided="false" collisions="true" posX="-1409.5" posY="-551.59998" posZ="16.2" rotX="0" rotY="90" rotZ="294.25"></object>
+    <object id="object (vgElkup) (2)" breakable="true" interior="24" alpha="255" dimension="500" model="8947" scale="1" doublesided="false" collisions="true" posX="-1387.2" posY="-541.59998" posZ="16.2" rotX="0" rotY="90" rotZ="294.247"></object>
+    <object id="object (warehouse_door2b) (1)" breakable="true" interior="24" alpha="255" dimension="500" model="3037" scale="1" doublesided="false" collisions="true" posX="-1405.4" posY="-553.29999" posZ="15.4" rotX="0" rotY="0" rotZ="294"></object>
+    <object id="object (carimp_LAn) (2)" breakable="true" interior="24" alpha="255" dimension="500" model="4032" scale="1" doublesided="true" collisions="true" posX="-1385.3" posY="-542" posZ="18.5" rotX="0" rotY="0" rotZ="133.999"></object>
+    <object id="object (warehouse_door2b) (2)" breakable="true" interior="24" alpha="255" dimension="500" model="3037" scale="1" doublesided="false" collisions="true" posX="-1397.6" posY="-592.70001" posZ="15.4" rotX="0" rotY="0" rotZ="43.75"></object>
+</map>

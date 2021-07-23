@@ -1,0 +1,18 @@
+<meta>
+    <script src="s.lua" type="server" />
+    <script src="c.lua" type="client" />
+	
+	<script src="map_fixes.lua" type="client" />
+	
+	<script src="fix.lua" type="client" />
+    
+    <export function="usarLlaves" type="server" />
+	<export function="getCharacterPropiedades" type="server" />
+    
+    <file src="1.png" />
+    <file src="2.png" />
+    <file src="3.png" />
+    <file src="4.png" />
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

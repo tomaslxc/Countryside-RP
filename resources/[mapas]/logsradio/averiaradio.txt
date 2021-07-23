@@ -1,0 +1,93 @@
+[2021-01-09 11:01:41] Cod error:2-0 - Jugador: Tomas_Neus - Respuesta:<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<meta name="description" content="Download CountrySideRp- Benito 3.0 Wspomnienia cz.1 from Youtube" />
+<meta name="twitter:description" content="Download CountrySideRp- Benito 3.0 Wspomnienia cz.1 from Youtube" />
+<meta property="og:description" content="Download CountrySideRp- Benito 3.0 Wspomnienia cz.1 from Youtube" />
+<link rel="stylesheet" href="https://alltubedownload.net/assets/open-sans/open-sans.css" />
+<link rel="stylesheet" href="https://alltubedownload.net/css/style.css" />
+<title>AllTube Download - CountrySideRp- Benito 3.0 Wspomnienia cz.1</title>
+<link rel="canonical" href="https://alltubedownload.net/info?url=_r7ux1YPhV0" />
+<link rel="icon" href="https://alltubedownload.net/img/favicon.png" />
+<meta property="og:title" content="AllTube Download - CountrySideRp- Benito 3.0 Wspomnienia cz.1" />
+<meta property="og:image" content="https://alltubedownload.net/img/logo.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="AllTube Download - CountrySideRp- Benito 3.0 Wspomnienia cz.1" />
+<meta name="twitter:image" content="https://alltubedownload.net/img/logo.png" />
+<meta name="twitter:creator" content="@Tael67" />
+<meta name="theme-color" content="#4F4F4F" />
+<link rel="manifest" href="https://alltubedownload.net/resources/manifest.json" />
+<meta name="generator" content="AllTube Download (No version set (parsed as 1.0.0)@)" />
+</head>
+<body>
+<div class="page info">
+<div class="wrapper">
+<div itemscope itemtype="http://schema.org/VideoObject">
+<main class="main">
+<h1 class="logobis">
+<a class="logocompatible" href="https://alltubedownload.net">
+<span class="logocompatiblemask"><img src="https://alltubedownload.net/img/logocompatiblemask.png" width="447" height="107" alt="AllTube Download" /></span>
+</a></h1>
+<p id="download_intro">
+You are going to download <i itemprop='name'>
+<a itemprop='url' id='video_link' href='https://www.youtube.com/watch?v=_r7ux1YPhV0'>
+CountrySideRp- Benito 3.0 Wspomnienia cz.1</a></i>. </p>
+<img itemprop="thumbnailUrl" class="thumb" src="https://i.ytimg.com/vi/_r7ux1YPhV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB34fx4tf0-6bex_PePcp02O37erQ" alt="" />
+<meta itemprop="description" content="Strona serwera: http://countrysiderp.com/
+Film powstał w celu przypomnienia wam co działo się na edycji Benito 3.0,która już się zakończyła.Nie jest to koniec CountrySideRp ,ponieważ już dzisiaj startuje kolejna edycja serwera z jeszcze lepszymi skryptami niż były.Zapraszam wszystkich do grania na tej edycji
+
+Utwór: https://www.youtube.com/watch?v=U4x3cPzOy9c
+Polecam wejść w oryginalny utwór ,ponieważ ten twórca wspiera zbiórkę ,w której są zbierane datki na walkę z Covid-19.Każda złotówka się liczy
+Pamiętajcie Warto Pomagać 
+
+Screeny z live różnych osób grających na serwerze.Większość tych osób jest wymieniona pod tym filmem:
+https://youtu.be/vAiqM-rq2s4" />
+<meta itemprop="uploadDate" content="20200807" />
+<br />
+<form action="/download">
+<input type="hidden" name="url" value="https://www.youtube.com/watch?v=_r7ux1YPhV0" />
+<h3><label for="format">Available formats:</label></h3>
+<select name="format" id="format" class="formats monospace">
+<optgroup label="Generic formats">
+<option value="best[protocol=https]/best[protocol=http]/bestvideo[protocol=https]/bestvideo[protocol=http]">Best</option>
+ <option value="worst[protocol=https]/worst[protocol=http]/worstvideo[protocol=https]/worstvideo[protocol=http]">Worst</option>
+</optgroup>
+<optgroup label="Detailed formats" class="monospace">
+<option value="18">mp4&nbsp;&nbsp;640x360&nbsp;&nbsp;&nbsp;23.72 MB&nbsp;&nbsp;360p&nbsp;(18)</option>
+<option value="22">mp4&nbsp;&nbsp;1280x720&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;720p&nbsp;(22)</option>
+</optgroup>
+</select>
+<br />
+<br />
+<input class="downloadBtn" type="submit" value="Download" /><br />
+</form>
+</main>
+</div>
+</div>
+<footer class="small-font">
+<div class="footer_wrapper">
+Code by <a rel='author' target='blank' href="https://rudloff.pro/">
+Pierre Rudloff
+</a>
+&middot;
+Design by <a rel='author' target='blank' href='http://olivierhaquette.fr'>
+Olivier Haquette
+</a>
+&middot;
+<a rel="noopener" target="_blank" href="https://github.com/Rudloff/alltube">
+Get the code </a>
+&middot;
+Based on <a href="https://ytdl-org.github.io/youtube-dl/">
+youtube-dl
+</a>
+&middot;
+<a rel="noopener" target="_blank" title="Donate using Liberapay" href="https://liberapay.com/Rudloff/donate">
+Donate </a>
+</div>
+</footer>
+</div>
+</body>
+</html>
+

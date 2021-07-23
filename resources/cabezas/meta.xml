@@ -1,0 +1,200 @@
+<meta>
+    <script src="s.lua" />
+    <script src="c.lua" type="client" />
+    
+    <export function="cargarCabeza" type="server" />
+    <export function="getCabezasRaza" type="client" />
+    <export function="ponerCabeza" type="client" />
+    
+    <export function="getCabezaPlayer" type="client" />
+    <export function="getCabezaData" type="client" />
+    
+    
+    
+    <file src="shader.fx" />
+    <file src="texturas/transparente.png" />
+    
+    
+    <file src="modelos/1.dff" cache="false" />
+    <file src="modelos/1.txd" cache="false" />
+    <file src="modelos/2.dff" cache="false" />
+    <file src="modelos/2.txd" cache="false" />
+    <file src="modelos/3.dff" cache="false" />
+    <file src="modelos/3.txd" cache="false" />
+    <file src="modelos/4.dff" cache="false" />
+    <file src="modelos/4.txd" cache="false" />
+    <file src="modelos/5.dff" cache="false" />
+    <file src="modelos/5.txd" cache="false" />
+    <file src="modelos/6.dff" cache="false" />
+    <file src="modelos/6.txd" cache="false" />
+    <file src="modelos/7.dff" cache="false" />
+    <file src="modelos/7.txd" cache="false" />
+    <file src="modelos/8.dff" cache="false" />
+    <file src="modelos/8.txd" cache="false" />
+    <file src="modelos/9.dff" cache="false" />
+    <file src="modelos/9.txd" cache="false" />
+    <file src="modelos/10.dff" cache="false" />
+    <file src="modelos/10.txd" cache="false" />
+    <file src="modelos/11.dff" cache="false" />
+    <file src="modelos/11.txd" cache="false" />
+    <file src="modelos/12.dff" cache="false" />
+    <file src="modelos/12.txd" cache="false" />
+    <file src="modelos/13.dff" cache="false" />
+    <file src="modelos/13.txd" cache="false" />
+    <file src="modelos/14.dff" cache="false" />
+    <file src="modelos/14.txd" cache="false" />
+    <file src="modelos/15.dff" cache="false" />
+    <file src="modelos/15.txd" cache="false" />
+    <file src="modelos/16.dff" cache="false" />
+    <file src="modelos/16.txd" cache="false" />
+    <file src="modelos/17.dff" cache="false" />
+    <file src="modelos/17.txd" cache="false" />
+    <file src="modelos/18.dff" cache="false" />
+    <file src="modelos/18.txd" cache="false" />
+    <file src="modelos/19.dff" cache="false" />
+    <file src="modelos/19.txd" cache="false" />
+    <file src="modelos/20.dff" cache="false" />
+    <file src="modelos/20.txd" cache="false" />
+    <file src="modelos/21.dff" cache="false" />
+    <file src="modelos/21.txd" cache="false" />
+    <file src="modelos/22.dff" cache="false" />
+    <file src="modelos/22.txd" cache="false" />
+    <file src="modelos/23.dff" cache="false" />
+    <file src="modelos/23.txd" cache="false" />
+    <file src="modelos/24.dff" cache="false" />
+    <file src="modelos/24.txd" cache="false" />
+    <file src="modelos/25.dff" cache="false" />
+    <file src="modelos/25.txd" cache="false" />
+    <file src="modelos/26.dff" cache="false" />
+    <file src="modelos/26.txd" cache="false" />
+    <file src="modelos/27.dff" cache="false" />
+    <file src="modelos/27.txd" cache="false" />
+    <file src="modelos/28.dff" cache="false" />
+    <file src="modelos/28.txd" cache="false" />
+    <file src="modelos/29.dff" cache="false" />
+    <file src="modelos/29.txd" cache="false" />
+    <file src="modelos/30.dff" cache="false" />
+    <file src="modelos/30.txd" cache="false" />
+    <file src="modelos/31.dff" cache="false" />
+    <file src="modelos/31.txd" cache="false" />
+    <file src="modelos/32.dff" cache="false" />
+    <file src="modelos/32.txd" cache="false" />
+    <file src="modelos/33.dff" cache="false" />
+    <file src="modelos/33.txd" cache="false" />
+    <file src="modelos/34.dff" cache="false" />
+    <file src="modelos/34.txd" cache="false" />
+    <file src="modelos/35.dff" cache="false" />
+    <file src="modelos/35.txd" cache="false" />
+    <file src="modelos/36.dff" cache="false" />
+    <file src="modelos/36.txd" cache="false" />
+    <file src="modelos/37.dff" cache="false" />
+    <file src="modelos/37.txd" cache="false" />
+    <file src="modelos/38.dff" cache="false" />
+    <file src="modelos/38.txd" cache="false" />
+    <file src="modelos/39.dff" cache="false" />
+    <file src="modelos/39.txd" cache="false" />
+    <file src="modelos/40.dff" cache="false" />
+    <file src="modelos/40.txd" cache="false" />
+    <file src="modelos/41.dff" cache="false" />
+    <file src="modelos/41.txd" cache="false" />
+    <file src="modelos/42.dff" cache="false" />
+    <file src="modelos/42.txd" cache="false" />
+    <file src="modelos/43.dff" cache="false" />
+    <file src="modelos/43.txd" cache="false" />
+    <file src="modelos/44.dff" cache="false" />
+    <file src="modelos/44.txd" cache="false" />
+    <file src="modelos/45.dff" cache="false" />
+    <file src="modelos/45.txd" cache="false" />
+    <file src="modelos/46.dff" cache="false" />
+    <file src="modelos/46.txd" cache="false" />
+    <file src="modelos/47.dff" cache="false" />
+    <file src="modelos/47.txd" cache="false" />
+    <file src="modelos/48.dff" cache="false" />
+    <file src="modelos/48.txd" cache="false" />
+    <file src="modelos/49.dff" cache="false" />
+    <file src="modelos/49.txd" cache="false" />
+    <file src="modelos/50.dff" cache="false" />
+    <file src="modelos/50.txd" cache="false" />
+    <file src="modelos/51.dff" cache="false" />
+    <file src="modelos/51.txd" cache="false" />
+    <file src="modelos/52.dff" cache="false" />
+    <file src="modelos/52.txd" cache="false" />
+    <file src="modelos/53.dff" cache="false" />
+    <file src="modelos/53.txd" cache="false" />
+    <file src="modelos/54.dff" cache="false" />
+    <file src="modelos/54.txd" cache="false" />
+    <file src="modelos/55.dff" cache="false" />
+    <file src="modelos/55.txd" cache="false" />
+    <file src="modelos/56.dff" cache="false" />
+    <file src="modelos/56.txd" cache="false" />
+    <file src="modelos/57.dff" cache="false" />
+    <file src="modelos/57.txd" cache="false" />
+    <file src="modelos/58.dff" cache="false" />
+    <file src="modelos/58.txd" cache="false" />
+    <file src="modelos/59.dff" cache="false" />
+    <file src="modelos/59.txd" cache="false" />
+    <file src="modelos/60.dff" cache="false" />
+    <file src="modelos/60.txd" cache="false" />
+    <file src="modelos/61.dff" cache="false" />
+    <file src="modelos/61.txd" cache="false" />
+    <file src="modelos/62.dff" cache="false" />
+    <file src="modelos/62.txd" cache="false" />
+    <file src="modelos/63.dff" cache="false" />
+    <file src="modelos/63.txd" cache="false" />
+    <file src="modelos/64.dff" cache="false" />
+    <file src="modelos/64.txd" cache="false" />
+    <file src="modelos/65.dff" cache="false" />
+    <file src="modelos/65.txd" cache="false" />
+    <file src="modelos/66.dff" cache="false" />
+    <file src="modelos/66.txd" cache="false" />
+    <file src="modelos/67.dff" cache="false" />
+    <file src="modelos/67.txd" cache="false" />
+
+    <file src="modelos/68.dff" cache="false" />
+    <file src="modelos/68.txd" cache="false" />
+    <file src="modelos/69.dff" cache="false" />
+    <file src="modelos/69.txd" cache="false" />
+    <file src="modelos/70.dff" cache="false" />
+    <file src="modelos/70.txd" cache="false" />
+    <file src="modelos/71.dff" cache="false" />
+    <file src="modelos/71.txd" cache="false" />
+    <file src="modelos/72.dff" cache="false" />
+    <file src="modelos/72.txd" cache="false" />
+    <file src="modelos/73.dff" cache="false" />
+    <file src="modelos/73.txd" cache="false" />
+    <file src="modelos/74.dff" cache="false" />
+    <file src="modelos/74.txd" cache="false" />
+    <file src="modelos/75.dff" cache="false" />
+    <file src="modelos/75.txd" cache="false" />
+
+    <file src="modelos/76.dff" cache="false" />
+    <file src="modelos/76.txd" cache="false" />
+
+    <file src="modelos/77.dff" cache="false" />
+    <file src="modelos/77.txd" cache="false" />
+    <file src="modelos/78.dff" cache="false" />
+    <file src="modelos/78.txd" cache="false" />
+
+    <file src="modelos/79.dff" cache="false" />
+    <file src="modelos/79.txd" cache="false" />
+    <file src="modelos/80.dff" cache="false" />
+    <file src="modelos/80.txd" cache="false" />
+
+    <file src="modelos/81.dff" cache="false" />
+    <file src="modelos/81.txd" cache="false" />
+
+    <file src="modelos/82.dff" cache="false" />
+    <file src="modelos/82.txd" cache="false" />
+    <file src="modelos/83.dff" cache="false" />
+    <file src="modelos/83.txd" cache="false" />
+    <file src="modelos/84.dff" cache="false" />
+    <file src="modelos/84.txd" cache="false" />
+    <file src="modelos/85.dff" cache="false" />
+    <file src="modelos/85.txd" cache="false" />
+
+
+
+
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

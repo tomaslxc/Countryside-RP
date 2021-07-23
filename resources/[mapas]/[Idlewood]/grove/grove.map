@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmb_skip) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2890" scale="1" doublesided="false" collisions="true" posX="2440.8" posY="-1683.7" posZ="12.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_TABLE_1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1433" scale="1" doublesided="false" collisions="true" posX="2431.8999" posY="-1678.4" posZ="12.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_chair01) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1711" scale="1" doublesided="false" collisions="false" posX="2431.8999" posY="-1680.4" posZ="12.8" rotX="0" rotY="0" rotZ="178"></object>
+    <object id="object (CJ_FOLDCHAIR) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1810" scale="1" doublesided="false" collisions="true" posX="2433" posY="-1679.8" posZ="12.8" rotX="0" rotY="0" rotZ="220"></object>
+    <object id="object (mrk_seating3) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1728" scale="1" doublesided="false" collisions="false" posX="2429.5" posY="-1677.9" posZ="12.7" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (CJ_BEAR_BOTTLE) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1484" scale="1" doublesided="false" collisions="true" posX="2432.3" posY="-1680.2" posZ="13" rotX="0" rotY="30" rotZ="0"></object>
+    <object id="object (DYN_WINE_3) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1509" scale="1" doublesided="false" collisions="true" posX="2431.6001" posY="-1676.6" posZ="12.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_WINE_BOUNCE) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1520" scale="1" doublesided="false" collisions="true" posX="2431.8999" posY="-1678.48" posZ="13.5" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (PROC_RUBBISH_5) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2673" scale="1" doublesided="false" collisions="true" posX="2430.1001" posY="-1679.5" posZ="12.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (PROC_RUBBISH_1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2670" scale="1" doublesided="false" collisions="true" posX="2498.5" posY="-1685" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (PROC_RUBBISH_1) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="2670" scale="1" doublesided="false" collisions="true" posX="2433.4004" posY="-1677.9004" posZ="12.8" rotX="0" rotY="0" rotZ="0"></object>
+</map>

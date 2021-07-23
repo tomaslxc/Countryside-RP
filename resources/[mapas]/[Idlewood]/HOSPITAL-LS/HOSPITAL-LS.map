@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (lhouse_barrier3) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="997" scale="1" doublesided="false" collisions="true" posX="2003.1" posY="-1451" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="997" scale="1" doublesided="false" collisions="true" posX="1998.4" posY="-1450.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="997" scale="1" doublesided="false" collisions="true" posX="1997" posY="-1442" posZ="12.6" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (lhouse_barrier3) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="997" scale="1" doublesided="false" collisions="true" posX="1997" posY="-1446.7002" posZ="12.6" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_PHONE_KIOSK) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="1995.4" posY="-1453" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (cr_door_02) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2948" scale="2" doublesided="false" collisions="true" posX="2004.2" posY="-1408.1" posZ="16" rotX="90" rotY="0.258" rotZ="359.742"></object>
+    <object id="object (cr_door_02) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="2948" scale="2" doublesided="false" collisions="true" posX="2008" posY="-1408.1" posZ="16" rotX="90" rotY="0.253" rotZ="359.742"></object>
+    <object id="object (cr_door_02) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="2948" scale="2" doublesided="false" collisions="true" posX="2020.7" posY="-1408.1" posZ="16" rotX="90" rotY="0.253" rotZ="359.742"></object>
+    <object id="object (chinaTgarageDoor) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2957" scale="1" doublesided="false" collisions="true" posX="2038.5" posY="-1438.5" posZ="17.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cr_door_02) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="2948" scale="2" doublesided="false" collisions="true" posX="2016.6" posY="-1408.1" posZ="16" rotX="90" rotY="0.253" rotZ="359.742"></object>
+</map>

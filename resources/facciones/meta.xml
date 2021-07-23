@@ -1,0 +1,20 @@
+
+<meta>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client"/>
+
+	<export function="isBankTypeOpened" type="client" />
+	
+	<export function="getPlayerFactionRights" type="server" />
+	<export function="getPlayerFaction" type="server" />
+	<export function="getPlayerFactionComision" type="server" />
+	<export function="getFactionType" type="server" />
+	<export function="getAllInformes" type="server" />
+	<export function="getFactionNameFromID" type="server" />
+	<export function="getFactionPresupuesto" type="server" />
+	<export function="setFactionPrespuesto" type="server" />
+	<export function="addFactionPresupuesto" type="server" />
+	<export function="removeFactionPresupuesto" type="server" />
+	<export function="pagarSueldos" type="server" />
+	
+</meta>

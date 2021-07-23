@@ -1,0 +1,31 @@
+
+<meta>
+
+	<min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client"/>
+	
+	<script src="radar.lua" type="server"/>
+	<script src="pinchos.lua" type="server"/>
+	<script src="pda_c.lua" type="client"/>
+	<script src="multa_c.lua" type="client"/>
+	<script src="bloqueos_c.lua" type="client"/>
+	<script src="multa.lua" type="server"/>
+	<script src="avisos.lua" type="client"/>
+	
+	<script src="armeria_c.lua" type="client"/>
+	<file src="esposas.mp3"/>
+	<file src="taser.wav"/>
+	<file src="dealer.ifp"/>
+	
+	<file src="gps.png"/>
+	<file src="matricula.png"/>
+	<file src="cerrar.png"/>
+	<file src="flecha.png"/>
+	<file src="registrocepo.png"/>
+	<file src="multa.png"/>
+	<file src="lupa.png"/>
+	<file src="infoveh.png"/>
+	<file src="cepo.png"/>
+	
+</meta>

@@ -1,0 +1,66 @@
+﻿
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=PT+Sans:400,700'>
+        <link rel="stylesheet" href="http://mta/local/assets/css/reset.css">
+        <link rel="stylesheet" href="http://mta/local/assets/css/supersized.css">
+        <link rel="stylesheet" href="http://mta/local/assets/css/style.css">
+
+
+    </head>
+
+    <body>
+		<div id="barrasuperior1" class="barrasuperior" hidden><h1>Vest Roleplay</h1></div>
+        <div class="page-container">
+            <form id="loginform" action="javascript:loginTrigger()" method="post">
+                <input id="UsernameInput" type="text" class="username" placeholder="Nombre de usuario">
+                <input id="PasswordInput" type="password" class="password" placeholder="Contraseña">
+				<br>
+				<br>
+                <button type="submit">Iniciar Sesión</button><br>
+                <a id="gotoregister">Registrar una nueva cuenta</a><br><br>
+                <div class="error"><span>+</span></div>
+            </form>
+			<form action="javascript:registerTrigger()" hidden id ="registerform" method="post">
+                <input id="UsernameInputR" type="text" class="username" placeholder="Nombre de usuario">
+                <input id="PasswordInputR" type="password" class="password" placeholder="Contraseña">
+				<input id="PasswordCInputR" type="password" class="password2" placeholder="Repite la contraseña">
+				<input id="EmailInputR" type="text" class="email" placeholder="Correo electrónico">
+				<br>
+				<br>
+                <button type="submit">Registrar</button><br>
+                <a id="gotologin">Volver</a>
+                <div class="error"><span>+</span></div>
+           </form>
+		   <form action="javascript:recuperarpass()" hidden id ="recpassform" method="post">
+                <input id="UsernameInputR2" type="text" class="username" placeholder="Nombre de usuario">
+				<input id="EmailInputR2" type="text" class="email2" placeholder="Correo electrónico">
+				<br>
+				<br>
+                <button type="submit">Recuperar contraseña</button><br>
+                <a id="gotologin2">Volver</a>
+                <div class="error"><span>+</span></div>
+           </form>
+			
+		</div>
+        <script src="http://mta/local/assets/js/jquery-1.8.2.min.js"></script>
+        <script src="http://mta/local/assets/js/supersized.3.2.7.min.js"></script>
+        <script src="http://mta/local/assets/js/supersized-init.js"></script>
+        <script src="http://mta/local/assets/js/scripts.js"></script>
+
+    </body>
+
+</html>
+
+
+<script>
+
+</script>

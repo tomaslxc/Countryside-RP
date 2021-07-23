@@ -1,0 +1,25 @@
+<meta>
+
+    <script src="carteles.lua" type="client" />
+	
+	<file src="texreplace.fx"/>
+	<file src="tribunal.png"/>
+	<file src="zexen.png"/>
+	<file src="bank.png"/>
+	<file src="pared.png"/>
+
+	<file src="bancopalomino.png"/>
+
+		<file src="visispublicas.png"/>
+				<file src="oficinaempleo.png"/>
+
+
+
+	<file src="eagle1.png"/>
+	<file src="eagle2.png"/>
+		<file src="tallers.png"/>
+
+
+
+	
+</meta>

@@ -1,0 +1,82 @@
+<meta>
+    <script src="skiname.lua" type="shared" />
+    <script src="shops.lua" type="client" />
+
+    <script src="c.lua" type="client" />
+    <script src="s.lua" type="server" />
+    
+    <export function="isShopOpened" type="client" />
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+
+    <file src="files/Skinid9.jpg" />
+	<file src="files/Skinid10.jpg" />
+	<file src="files/Skinid11.jpg" />
+	<file src="files/Skinid12.jpg" />
+	<file src="files/Skinid13.jpg" />
+	<file src="files/Skinid31.jpg" />
+	<file src="files/Skinid38.jpg" />
+	<file src="files/Skinid39.jpg" />
+	<file src="files/Skinid40.jpg" />
+	<file src="files/Skinid41.jpg" />
+	<file src="files/Skinid53.jpg" />
+	<file src="files/Skinid54.jpg" />
+	<file src="files/Skinid55.jpg" />
+	<file src="files/Skinid56.jpg" />
+	<file src="files/Skinid63.jpg" />
+	<file src="files/Skinid64.jpg" />
+	<file src="files/Skinid69.jpg" />
+	<file src="files/Skinid91.jpg" />
+	<file src="files/Skinid93.jpg" />
+	<file src="files/Skinid129.jpg" />
+	<file src="files/Skinid130.jpg" />
+	<file src="files/Skinid131.jpg" />
+	<file src="files/Skinid138.jpg" />
+	<file src="files/Skinid139.jpg" />
+	<file src="files/Skinid140.jpg" />
+	<file src="files/Skinid141.jpg" />
+	<file src="files/Skinid145.jpg" />
+	<file src="files/Skinid148.jpg" />
+	<file src="files/Skinid150.jpg" />
+	<file src="files/Skinid151.jpg" />
+	<file src="files/Skinid152.jpg" />
+	<file src="files/Skinid157.jpg" />
+	<file src="files/Skinid169.jpg" />
+	<file src="files/Skinid172.jpg" />
+	<file src="files/Skinid178.jpg" />
+	<file src="files/Skinid190.jpg" />
+	<file src="files/Skinid191.jpg" />
+	<file src="files/Skinid192.jpg" />
+	<file src="files/Skinid193.jpg" />
+	<file src="files/Skinid194.jpg" />
+	<file src="files/Skinid195.jpg" />
+	<file src="files/Skinid196.jpg" />
+	<file src="files/Skinid197.jpg" />
+	<file src="files/Skinid198.jpg" />
+	<file src="files/Skinid199.jpg" />
+	<file src="files/Skinid201.jpg" />
+	<file src="files/Skinid205.jpg" />
+	<file src="files/Skinid207.jpg" />
+	<file src="files/Skinid214.jpg" />
+	<file src="files/Skinid215.jpg" />
+	<file src="files/Skinid216.jpg" />
+	<file src="files/Skinid218.jpg" />
+	<file src="files/Skinid219.jpg" />
+	<file src="files/Skinid224.jpg" />
+	<file src="files/Skinid225.jpg" />
+	<file src="files/Skinid226.jpg" />
+	<file src="files/Skinid231.jpg" />
+	<file src="files/Skinid232.jpg" />
+	<file src="files/Skinid233.jpg" />
+	<file src="files/Skinid237.jpg" />
+	<file src="files/Skinid238.jpg" />
+	<file src="files/Skinid243.jpg" />
+	<file src="files/Skinid244.jpg" />
+	<file src="files/Skinid245.jpg" />
+	<file src="files/Skinid246.jpg" />
+	<file src="files/Skinid251.jpg" />
+	<file src="files/Skinid256.jpg" />
+	<file src="files/Skinid257.jpg" />
+	<file src="files/Skinid263.jpg" />
+	<file src="files/Skinid298.jpg" />
+	<file src="files/Skinid304.jpg" />
+</meta>

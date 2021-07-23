@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+   <object id="object (trukstp01) (1)" breakable="true" interior="1" collisions="true" alpha="255" model="14655" doublesided="true" scale="1" dimension="-1" posX="686.59369" posY="-443.71481" posZ="-24.5206" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (Gen_doorSHOP3) (1)" breakable="true" interior="1" collisions="false" alpha="255" model="1522" doublesided="false" scale="1" dimension="-1" posX="680.78943" posY="-450.5282" posZ="-26.6172" rotX="0" rotY="0" rotZ="0"></object>
+</map>

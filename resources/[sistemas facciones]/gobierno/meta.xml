@@ -1,0 +1,27 @@
+<meta>
+
+	<script src="gob.lua" type="server"/>
+	<script src="gob_c.lua" type="client"/>
+
+	
+	<file src="gob.png"/>
+	
+	<file src="empleados.png"/>
+	<file src="informes.png"/>
+	
+	<file src="imgs/ascender.png"/>
+	<file src="imgs/degradar.png"/>
+	<file src="imgs/cerrado.png"/>
+	<file src="imgs/abierto.png"/>
+	
+	<file src="volver.png"/>
+	<file src="despedir.png"/>
+	<file src="sueldo.png"/>
+	
+	<file src="faccsimgs/1.png"/>
+	<file src="faccsimgs/2.png"/>
+	<file src="faccsimgs/5.png"/>
+	
+	<export function="getImpuestosSobre" type="server"/>
+	
+</meta>

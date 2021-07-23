@@ -1,0 +1,29 @@
+<meta>
+    <script src="s.lua" type="server" />
+    <script src="c.luac" type="client" />
+    
+    <export function="loadRecipientes" type="server" />
+    <export function="dar_recipiente" type="server" />
+    <export function="mostrar_panel_recipientes" type="server" />
+    <export function="tieneRecipiente" type="server" />
+    <export function="darItemRecipiente" type="server" />
+    
+    
+    <export function="darRecipienteFromMaletero" type="client" />
+    <export function="isCursorInRecipiente" type="client" />
+    <export function="ponerItemEnRecipiente" type="client" />
+    
+    
+    
+    <file src="recipientes/img/maletero.png" />
+    <file src="recipientes/img/1.png" />
+    <file src="recipientes/img/2.png" />
+    
+    <file src="recipientes/smallback.txd" />
+    <file src="recipientes/smallback.dff" />
+    <file src="recipientes/plasticbag.txd" />
+    <file src="recipientes/plasticbag.dff" />
+    
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

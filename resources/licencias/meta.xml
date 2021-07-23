@@ -1,0 +1,10 @@
+<meta>
+
+	<script src="c.lua" type="client"/>
+	<script src="s.lua" type="server"/>
+	
+	<script src="practico.lua" type="client"/>
+	
+	<script src="ruta.lua" type="shared"/>
+
+</meta>

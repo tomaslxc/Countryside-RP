@@ -1,0 +1,5 @@
+<meta>
+    <info name="None" author="Perchax" description="None" version="1.0" type="script"></info>
+    <script src="client.lua" type="client" cache="false"></script>
+    <script src="server.lua" type="server"></script>
+</meta>

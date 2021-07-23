@@ -1,0 +1,14 @@
+<meta>
+    
+    <script src="jobs.lua" type="server" />
+    <script src="paneljobs_c.lua" type="client" />
+    
+    <file src="job.png" />
+    
+    <file src="Roboto-Regular.ttf" />
+    <file src="Roboto-Italic.ttf" />
+    <file src="Roboto-Condensed.ttf" />
+    <file src="Roboto-BoldCondensed.ttf" />
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

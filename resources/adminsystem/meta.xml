@@ -1,0 +1,5 @@
+<meta>
+
+	<script src="sv.lua" type="server"/>
+		<script src="s_soporte.lua" type="server"/>
+</meta>

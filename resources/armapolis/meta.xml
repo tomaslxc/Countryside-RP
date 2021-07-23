@@ -1,0 +1,7 @@
+<meta>
+     <script src="armareglamentaria.lua" type="shared" />
+	 <file src="Models/deagle.txd" />
+     <file src="Models/deagle.dff" />
+	 <file src="glocksound.wav" />
+	 <file src="sounds.wav" />
+</meta>

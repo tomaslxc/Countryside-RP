@@ -1,0 +1,31 @@
+<meta>
+	<info author="ouke" description="Skins Prueba" version="1.0" type="script" />
+	
+	<script src="client.lua" type="client" />
+	
+	<file src="vehiculos/copbike.txd" />
+	<file src="vehiculos/copbike.dff" />
+	<file src="vehiculos/148.txd" />
+	<file src="vehiculos/148.dff" />
+	<file src="vehiculos/152.txd" />
+	<file src="vehiculos/152.dff" />
+
+
+	<file src="vehiculos/copcarla.txd" />
+	<file src="vehiculos/copcarla.dff" />
+	<file src="vehiculos/copcarru.txd" />
+	<file src="vehiculos/copcarru.dff" />
+	<file src="vehiculos/copcarsf.txd" />
+	<file src="vehiculos/copcarsf.dff" />
+	<file src="vehiculos/copcarvg.txd" />
+	<file src="vehiculos/copcarvg.dff" />
+	<file src="vehiculos/wfystew.txd" />
+	<file src="vehiculos/wfystew.dff" />
+	<file src="vehiculos/hmydrug.txd" />
+	<file src="vehiculos/hmydrug.dff" />
+	<file src="vehiculos/negra.txd" />
+	<file src="vehiculos/negra.dff" />
+
+
+
+</meta>

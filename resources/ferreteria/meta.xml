@@ -1,0 +1,6 @@
+<meta>
+
+	<script src="ferreteria.lua" type="server"/>
+	<script src="ferreteria_c.lua" type="client"/>
+
+</meta>

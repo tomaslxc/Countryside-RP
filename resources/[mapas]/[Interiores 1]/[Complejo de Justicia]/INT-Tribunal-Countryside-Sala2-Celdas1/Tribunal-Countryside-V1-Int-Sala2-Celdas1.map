@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (barbara-cop) (2)" breakable="true" interior="35" alpha="255" model="14881" doublesided="false" scale="1" dimension="431" posX="1590.7" posY="1195.5" posZ="12.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (imy_la_door) (1)" breakable="true" interior="35" alpha="255" model="3109" doublesided="false" scale="1.1" dimension="431" posX="1589.7" posY="1195.5" posZ="12.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (carter-bars) (1)" breakable="true" interior="35" alpha="255" model="14437" doublesided="false" scale="1" dimension="431" posX="1589.2" posY="1197.5" posZ="12.9" rotX="0" rotY="0" rotZ="90.25"></object>
+    <object id="object (carter-bars) (2)" breakable="true" interior="35" alpha="255" model="14437" doublesided="false" scale="1" dimension="431" posX="1589.2" posY="1201.7" posZ="12.9" rotX="0" rotY="0" rotZ="90.247"></object>
+    <object id="object (Police_cell_Toilet) (1)" breakable="true" interior="35" alpha="255" model="2602" doublesided="false" scale="1" dimension="431" posX="1585.9" posY="1199.1" posZ="11.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Police_cell_Toilet) (2)" breakable="true" interior="35" alpha="255" model="2602" doublesided="false" scale="1" dimension="431" posX="1585.6" posY="1203.3" posZ="11.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (chinaTgate) (1)" breakable="true" interior="35" alpha="255" model="2930" doublesided="false" scale="1" dimension="431" posX="1589.1" posY="1198.4" posZ="13.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (chinaTgate) (2)" breakable="true" interior="35" alpha="255" model="2930" doublesided="false" scale="1" dimension="431" posX="1589.1" posY="1202.6" posZ="13.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (nt_securecam1_01) (1)" breakable="true" interior="35" alpha="255" model="1616" doublesided="false" scale="1" dimension="431" posX="1591.7" posY="1197.4" posZ="14.1" rotX="0" rotY="0" rotZ="36"></object>
+    <object id="object (nt_securecam1_01) (2)" breakable="true" interior="35" alpha="255" model="1616" doublesided="false" scale="1" dimension="431" posX="1591.8" posY="1202.2" posZ="14.1" rotX="0" rotY="0" rotZ="35.997"></object>
+</map>

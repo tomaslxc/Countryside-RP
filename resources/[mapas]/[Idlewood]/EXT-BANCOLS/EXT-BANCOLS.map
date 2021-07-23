@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (ADAM_V_DOOR) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1569" scale="1" doublesided="false" collisions="true" posX="1328.8" posY="-983.40002" posZ="32.8" rotX="0" rotY="0" rotZ="269.5"></object>
+    <object id="object (ADAM_V_DOOR) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1569" scale="1" doublesided="false" collisions="true" posX="1328.8" posY="-986.40002" posZ="32.8" rotX="0" rotY="0" rotZ="89.495"></object>
+    <object id="object (Stonebench1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1256" scale="1" doublesided="false" collisions="true" posX="1343.9" posY="-995.5" posZ="28" rotX="356" rotY="0" rotZ="180.25"></object>
+</map>

@@ -1,0 +1,9 @@
+<meta>
+	<info author="Benxamix2" version="1.5" type="script" name="New Real Time Script" />
+	<settings>
+		<setting name="*initialHour" value="0" friendlyname="Initial Hour" accept="0-23" desc="The hour that the game inits with when starting this resource." />
+		<setting name="*initialMinute" value="0" friendlyname="Initial Minute" accept="0-60" desc="The minute that the game inits with when starting this resource." />
+		<setting name="*minuteDelay" value="60000" friendlyname="Minute Delay" accept="0-9999000" desc="How much time does minutes delay its advance in miliseconds."  />
+	</settings>
+	<script src="server.lua" type="server" />
+</meta>

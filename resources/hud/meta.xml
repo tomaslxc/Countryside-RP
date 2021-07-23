@@ -1,0 +1,68 @@
+<meta>
+    <script src="s.lua" />
+    <script src="c.luac" type="client" />
+    
+    <script src="client/main.luac" type="client" />
+    
+    <export function="isHud" type="client" />
+    
+    <file src="client/shaders/texture_replace.fx" type="client" />
+    
+    <file src="client/img/hud/ak47icon.png" />
+    <file src="client/img/hud/baticon.png" />
+    <file src="client/img/hud/bombicon.png" />
+    <file src="client/img/hud/BRASSKNUCKLEicon.png" />
+    <file src="client/img/hud/cameraCrosshair.png" />
+    <file src="client/img/hud/cameraicon.png" />
+    <file src="client/img/hud/cellphoneicon.png" />
+    <file src="client/img/hud/chnsawicon.png" />
+    <file src="client/img/hud/chromegunicon.png" />
+    <file src="client/img/hud/colt45icon.png" />
+    <file src="client/img/hud/cuntgunicon.png" />
+    <file src="client/img/hud/desert_eagleicon.png" />
+    <file src="client/img/hud/fire_exicon.png" />
+    <file src="client/img/hud/fist.png" />
+    <file src="client/img/hud/flameicon.png" />
+    <file src="client/img/hud/floweraicon.png" />
+    <file src="client/img/hud/flowerbicon.png" />
+    <file src="client/img/hud/font1.png" />
+    <file src="client/img/hud/font2.png" />
+    <file src="client/img/hud/golfclubicon.png" />
+    <file src="client/img/hud/grenadeicon.png" />
+    <file src="client/img/hud/gun_caneicon.png" />
+    <file src="client/img/hud/gun_dildo1icon.png" />
+    <file src="client/img/hud/gun_dildo2icon.png" />
+    <file src="client/img/hud/gun_paraicon.png" />
+    <file src="client/img/hud/gun_vibe1icon.png" />
+    <file src="client/img/hud/gun_vibe2icon.png" />
+    <file src="client/img/hud/heatseekicon.png" />
+    <file src="client/img/hud/irgogglesicon.png" />
+    <file src="client/img/hud/jetpackicon.png" />
+    <file src="client/img/hud/katanaicon.png" />
+    <file src="client/img/hud/knifecuricon.png" />
+    <file src="client/img/hud/M4icon.png" />
+    <file src="client/img/hud/micro_uziicon.png" />
+    <file src="client/img/hud/minigunicon.png" />
+    <file src="client/img/hud/molotovicon.png" />
+    <file src="client/img/hud/mp5lngicon.png" />
+    <file src="client/img/hud/nitestickicon.png" />
+    <file src="client/img/hud/nvgogglesicon.png" />
+    <file src="client/img/hud/poolcueicon.png" />
+    <file src="client/img/hud/rocketlaicon.png" />
+    <file src="client/img/hud/satchelicon.png" />
+    <file src="client/img/hud/sawnofficon.png" />
+    <file src="client/img/hud/shotgspaicon.png" />
+    <file src="client/img/hud/shovelicon.png" />
+    <file src="client/img/hud/silencedicon.png" />
+    <file src="client/img/hud/siteM16.png" />
+    <file src="client/img/hud/siterocket.png" />
+    <file src="client/img/hud/skateboardIcon.png" />
+    <file src="client/img/hud/SNIPERcrosshair.png" />
+    <file src="client/img/hud/SNIPERicon.png" />
+    <file src="client/img/hud/SPRAYCANicon.png" />
+    <file src="client/img/hud/teargasicon.png" />
+    <file src="client/img/hud/tec9icon.png" />
+    
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+
+    <script src="cliente.luac" type="client"/>
+    <script src="server.lua" type="server"/>
+    <script src="ruta.lua" type="shared"/>
+
+    <file src="trigo.png"/>
+
+</meta>

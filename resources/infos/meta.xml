@@ -1,0 +1,8 @@
+<meta>
+
+	<script src="infos.lua" type="server"/>
+	<script src="infos_c.lua" type="client"/>
+	
+	<file src="info.png"/>
+
+</meta>
