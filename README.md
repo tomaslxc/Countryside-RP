@@ -58,7 +58,7 @@ Básicamente, si descargas la versión de 32 bits, lo único que debes de hacer 
 
 
 
-
+- Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
 
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
