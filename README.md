@@ -1,8 +1,7 @@
 # Countryside-RP
 
 (**Aleks** no dará soporte de la misma, cualquiera duda solo la responderé yo)
-
-En este repositorio publiqué la gamemode desarrollada de 0 por **ALEKS**, unos usuarios de la comunidad me la robaron y le pedí permiso al dueño para poder libelarla.
+En este repositorio publiqué la gamemode desarrollada de 0 por **ALEKS** y modificada por mí (Tomás N.), unos usuarios de la comunidad me la robaron y con Aleks coincidimos en libelarla.
 
 Nuestra GM no usa niveles, tenemos algo llamado **Etapa de Rol** (Esto se vé en el tabulador), el primer ER se consigue pasando el test de rol, los demás se dan cuando ese usuario crea su Historia de personaje (Apartir de 2 en adelante los tiene que dar un STAFF, es decir que vos controlas de que forma das los E.R )
 
@@ -39,7 +38,7 @@ Sistemas de la GM:
 
 - Deberás de iniciar los resources manualmente para así evitar bugs con los paneles.
 
-- Deberás descargar los módulos **core.so, dbconmy, deathmatch, net y xmll** para su correcto funcionamiento (se encuentran en la carpeta x64, dicha carpeta vá en raíz en dónde está el iniciador)
+- Deberás descargar los módulos **core, dbconmy, deathmatch, net y xmll** para su correcto funcionamiento (se encuentran en la carpeta x64, dicha carpeta vá en raíz en dónde está el iniciador)
 
 **No es necesario instalar el módulo mysql en el servidor**
 ```bash
