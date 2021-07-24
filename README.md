@@ -57,9 +57,10 @@ Básicamente, si descargas la versión de 32 bits, lo único que debes de hacer 
 - Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada. 
 
 
-
-- Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
-
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
+Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
+
 - Aleks y yo decidimos públicar la GAMEMODE debido al robo de la misma; nadie más se encuentra autorizado ni es dueño de dicha gamemode.
+
+Post: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
