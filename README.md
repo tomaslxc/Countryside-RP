@@ -39,16 +39,18 @@ Sistemas de la GM:
 
 - Deberás de iniciar los resources manualmente para así evitar bugs con los paneles.
 
-- Descarga el módulo MySQL que necesites desde https://wiki.multitheftauto.com/wiki/Modules/MTA-MySQL y sigue las instrucciones para su instalación.
-Básicamente, si descargas la versión de 32 bits, lo único que debes de hacer es crear una carpeta llamada modules (mods/deathmatch/modules) y poner ahí el módulo.
+- Deberás descargar los módulos **core.so, dbconmy, deathmatch, net y xmll** para su correcto funcionamiento (se encuentran en la carpeta x64, dicha carpeta vá en raíz en dónde está el iniciador)
 
-- Igualmente, en el mtaserver.conf deberás especificar qué módulo necesitas (mta_mysql.dll para Windows; mta_mysql.so para Linux)
+**No es necesario instalar el módulo mysql en el servidor**
 ```bash
-    <module src="mta_mysql.dll"/> <!-- Windows -->
-    <module src="mta_mysql.so"/> <!-- Linux -->
+    <!-- <module src="core.so"/> -->
+    <!-- <module src="dbconmy.so"/> -->
+    <!-- <module src="deathmatch.so"/> -->
+    <!-- <module src="net.so"/> -->
+    <!-- <module src="xmll.so"/> -->
 ```
 
-- En el caso de Linux, puede ser necesario algún módulo más. Consúltalo aquí: https://linux.mtasa.com/
+- En el caso de Linux, puede ser necesario algún módulo más. Consúltalo en la página oficial de MTA.
 
 - Copia la carpeta resources a mods/deathmatch
 
