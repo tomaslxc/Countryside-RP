@@ -65,6 +65,7 @@ Sistemas de la GM:
 - Es necesario iniciar primeramente el recurso `mysql`, luego los demás (Todo manualmente, si usás startall o demás; podés ocacionar Bugs y tendrás que reiniciar)
 
 
+# CRÉDITOS
 
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
