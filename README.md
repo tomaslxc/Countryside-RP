@@ -58,6 +58,14 @@ Sistemas de la GM:
 - Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada. 
 
 
+
+
+# INFORMACIÓN
+
+- Es necesario iniciar primeramente el recurso `mysql`, luego los demás (Todo manualmente, si usás startall o demás; podés ocacionar Bugs y tendrás que reiniciar)
+
+
+
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
 Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
