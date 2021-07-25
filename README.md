@@ -63,7 +63,7 @@ Sistemas de la GM:
 # INFORMACIÓN
 
 - Es necesario iniciar primeramente el recurso `mysql`, luego los demás (Todo manualmente, si usás startall o demás; podés ocacionar Bugs y tendrás que reiniciar)
-
+- Si vas a utilizar la gamemode o scripts de la misma, respeta los créditos.
 
 # CRÉDITOS
 
