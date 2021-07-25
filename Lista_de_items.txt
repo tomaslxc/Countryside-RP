@@ -1,0 +1,133 @@
+Lista N° 1 de items
+
+ID - NOMBRE OBJETO
+1 - papas fritas
+2 - pizza
+3 - Nada
+4 - Botella agua
+5 - Bottela Vino
+6 - Jarra de cerveza
+7 - Botella whiskey
+8 - Lata de sprunk
+9 - Pancho (hotdog)
+10 - Paleta de helado
+11 -  Botella Vodka
+12 - Llaves vehiculos
+13 - Llaves casas
+14 - Pistola
+15 - Granada esplosiva
+16 - Celular (tipo 1)
+17 - Celular (tipo 2)
+18 - Tarjeta bancaria
+19 - Libreta
+20 -  DNI (tipo 1)
+21 - Licencia de conducir
+22 - Licencia de armas
+23 - Walkie tokie
+24 - GPS
+25 - Reloj
+26 - CD
+27 - Pendrive
+28 - Radio Vehicular
+29 - Camara de fotos
+30 -  Hamburguesa
+31 - Lata de pescado
+32 - Maruchan
+33 - Fideos
+34 - Manzana
+35 - Banana
+36 - Naranja
+37 - Pera
+38 - Mango ( o eso creo )
+39 - Tomate
+40 - Lechuga
+41 - Galletas
+42 - Chocolate
+43 - (No sé que es esto)
+44 - Marihuana
+45 - Jeringa
+46 - Invisible
+47 - (Alerta Vehículo)
+48 -  llaves negocio
+49 - Encendedor
+50 - Caja
+51 - hojas
+52 - Ganzuas
+53 - Jeringa (Tipo 2)
+54 - Pipa
+55 - Caja
+56 - Invisible
+57 - Invisible
+58 - Invisible
+59 - Maleta (tipo 1)
+60 - Portafolios
+61 - Bolso
+62 - Bolsa
+63 - Barreta
+64 - Kit mecánico
+65 - (parece un spray)
+66 - Bugia
+67 - Rueda
+68 - (No me acuerdo el nombre jajsjaj)
+69 -  Batería de auto
+70 - (Parece un motor)
+71 - Pastillas
+72 - Vendas
+73 - Jeringa
+74 -  (Parece una botella de aceite)
+75 - Morfina  
+76 - (Es un dispositivo electrónico y no logro entender que es)
+77 - (Es una botella de algo)
+78 - Radio
+79 - Esposas
+80 - (Es un dispositivo electrónico y no logro entender que es)
+81 - Taser
+82 -  Puños
+83 -  Palo de golf
+84 - Bate de béisbol
+85 - Porra
+86 - Cuchillo (sin imágen)
+87 - Katana (sin imágen)
+88 -  Pala (sin imágen)
+89 - Palo de pool (sin imágen)
+90 - Motosierra (sin imágen)
+91 - Pistola 9mm (sin imágen)
+92 - Pistola silenciada
+93 - Pistola
+94 - Escopeta
+95 - Escopeta recortada (sin imágen)
+96 - Escopeta
+97 - Uzi
+98 - MP5
+99 - Tec
+100 - AK 47
+Lista N° de items
+
+ID - NOMBRE OBJETO
+
+101 - M4
+102 - Rifle de caza
+103 - Rifle francotirador
+104 - RPG
+105 - Bazooka
+106 - Lanzallamas
+107 - Minigun
+108 - Granada de humo
+109 - Molotov
+110 - Explosivo
+111 - Spray de pintura
+112 - Extintor
+113 - Consolador
+114 - Consolador
+115 - Consolador
+116 - Ramo de flores
+117 - Bastón
+118 - Gafas de visión nocturna
+119 - Gafas de visión nocturna (tipo 2)
+120 - Paracaídas
+121 - Control de explosivos
+122 - Cargador de arma
+123 - Cargador de arma (Tipo 2)
+124 - Cargador de arma (Tipo 3)
+125 - Parte de arma
+[Final de items]

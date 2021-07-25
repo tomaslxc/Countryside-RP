@@ -1,0 +1,13 @@
+ID de tiendas:
+
+1 - Tienda de comida
+2 - Tienda de electronica
+3 - Tienda 24/7
+4 - Bar
+5 - Ferreteria
+6 - Prendas superior casual
+7 - Prendas superior luxe
+8 - Prendas inferiores casual
+9 - Prendas inferiores luxe
+10 - Zapatos casuales
+11 - Zapatos lujosos

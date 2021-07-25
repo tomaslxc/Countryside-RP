@@ -1,0 +1,119 @@
+﻿ COMANDOS ADMINS:
+
+
+
+	
+	RANGOS ADMINISTRATIVOS
+	
+		1.- TESTER
+		2.- AYUDANTE
+		3.- MODERADOR
+		4.- GAME OPERATOR
+		5.- ADMINISTRADOR
+		6.- DESARROLLADOR
+
+
+
+
+
+
+
+/nearbyinfos - Encontrar carteles infos cerca - 3
+/borrarinfo - Borrar carteles info - 3
+/crearinfo - Crear carteles infos - 3
+/creartp - Crear puerta de tp - 4
+/crearint - Crear interior - 4
+/nearbytps - Encontar puerta de tp cercanos - 3
+/borrartp - Borrar puerta tp - 4
+/abrirvehiculosjob - Abrir todos los vehiculos de jobs - 3
+/verfaccs - Ver número de faccs - 1
+/creartienda - Crear NPC de tiendas - 4
+/borrartienda - Borrar tiendas de NPC - 4
+/freecam - Camara libre para spectear - 2
+/setfaction - Poner una facción a "x" usuario  - 4
+/listafaccs - Ver lista de faccs - 1
+/rangosfacc - Ver la lista de rangosfacc - 3
+/setfactionrango - Ponerle "x" rango a un usuario dentro de su facc - 4
+/setfactionderechos - Ponerle "x" derecho a un usuario dentro de su facc  -4
+/aad - Enviar mensaje global (entorno) - 3
+/m - Chat de moderación - 3
+/ay - Chat ayudantes - 2
+/a - Chat administrativo - 4
+/makeveh - Crear vehiculo particular o facción - 4
+/delveh - Eliminar vehiculo particular o facción - 4
+/setcolor - Establecer color a vehiculo - 3
+/repostar - Establecer gasolina a vehiculo - 3
+/borrarveh - Borrar vehiculos - 4
+/getveh - Traer vehiculos - 4
+/gotoveh - Ir hacia un vehiculo - 3
+/fixveh - Arreglar el vehicculo en el que estas dentro - 3
+/nearbyvehs - Ver ID de vehiculos cercanos - 3
+/respawnveh - Respawnear vehiculo seleccionado - 3
+/tempveh - Crear vehiculo temporal - 4
+/removetempveh - Borrar vehiculos temporales - 4
+/infobanco - Ver cuenta bancaria de "x" usuario - 3
+/fixdim - Llevar a la dimensión 0 a "x" usuario - 3
+/tppueblo - Llevar a "x" pueblo - 3
+/setcaminar - Establecer modo de caminar - 3
+/seteuritos - Dar dinero - 6 (SOLO PRUEBAS)
+/setskin - Cambiar skin - 5
+/spec - Modo spectear - 3
+/spec - Para salir modo spec - 3
+/setpuntoscarnet - Establecer puntos de carnet - 3
+/setlicencia - Establecer licencias - 3
+/get - Traer a usuario - 3
+/goto - Ir hacia usuarios - 3
+/giveitem - Darse un item - 4
+/setcansancio - Establecer cansancio - 3
+/setsed - Establecer sed - 3
+/sethambre - Establecer hambre - 3
+/freeze - Congelar a usuarios - 3
+/sethp - Establecer vida - 3
+/setar - Establecer chaleco - 3 
+/revivir - Revivir a usuario - 3
+/kickplayer - Expulsar a usuario - 3
+/setname - Cambiar nombre de personaje - 5
+/adminduty - Entrar o salir de modo administrativo - 2 
+/showadmin - Acitvar o desactivar chat administrativo - 2 (para rolear)
+/ocultarstaff - Aparece en la lista de staff - 5
+/banplayer - Banear usuarios - 3
+/ajail - Enviar a carcel OOC - 3
+/desjail - Quitar de carcel OOC - 3
+/verjail - Ver tiempo de jail de usuarios - 3
+/playerjail - Ver si el usuario está en carcel OOC - 3
+/reiniciarfarm - reiniciar farmeo - 4
+/setclima - Establecer clima - 3
+/nextclima - Cambiar a siguiente clima - 3
+/gotopos - Ir hacia un pos - 3
+/cambiarmap - Cambiar valores de maps - 5
+/crearbanco - Crear banco ó npc - 4
+/borraratm - Borrar ATM - 4
+/borrarbanco - Borrar NPC de banco - 4
+/pasd - Enviar pagos facciones -6
+
+
+
+	[0] = "Muy soleado",
+	[1] = "Soleado",
+	[2] = "Muy soleado con neblina",
+	[3] = "Soleado con neblina",
+	[4] = "Nublado",
+	[5] = "Soleado despejado",
+	[6] = "Muy soleado despejado",
+	[7] = "Nublado de SF",
+	[8] = "Lluvia con truenos",
+	[9] = "Neblina fuerte",
+	[10] = "Soleado LV",
+	[11] = "Muy soleado LV",
+	[12] = "Nublado LV",
+	[13] = "Muy soleado Countryside",
+	[14] = "Soleado Countryside",
+	[15] = "Nublado Countryside",
+	[16] = "Lluvia Countryside",
+	[17] = "Muy soleado (desértico)",
+	[18] = "Soleado (desértico)",
+	[19] = "Tormenta de arena",
+	[20] = "Bajo del agua (?)",
+	[21] = "Colores extra",
+	[22] = "Colores extra 2",
+
