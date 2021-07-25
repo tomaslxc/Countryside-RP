@@ -50,7 +50,7 @@ Sistemas de la GM:
 
 # INFORMACIÓN
 
-- Nuestro mtaserver.conf inicia todos los recursos y/o mapas, si al ingresar al servidor no podes ver algunos paneles; reiniciá el panel que no se vé (`Esto solo puede suceder la primera vez que se inicia)
+- Nuestro mtaserver.conf inicia todos los recursos y/o mapas, si al ingresar al servidor no podes ver algunos paneles; reiniciá el panel que no se vé (`Esto solo puede suceder la primera vez que se inicia`)
 
 # CRÉDITOS
 
