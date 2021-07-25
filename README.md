@@ -40,20 +40,8 @@ Sistemas de la GM:
 
 - Deberás descargar los módulos **core, dbconmy, deathmatch, net y xmll** para su correcto funcionamiento (se encuentran en la carpeta x64, dicha carpeta vá en raíz en dónde está el iniciador)
 
-**No es necesario instalar el módulo mysql en el servidor**
-```bash
-    <!-- <module src="core.so"/> -->
-    <!-- <module src="dbconmy.so"/> -->
-    <!-- <module src="deathmatch.so"/> -->
-    <!-- <module src="net.so"/> -->
-    <!-- <module src="xmll.so"/> -->
-```
+**No es necesario agregar módulos a mtaserver.conf (si se agrega puede ocacionar errores)**
 
-- En el caso de Linux, puede ser necesario algún módulo más. Consúltalo en la página oficial de MTA.
-
-- Copia la carpeta resources a mods/deathmatch
-
-- Una vez realizados estos pasos, puedes proceder a abrir el servidor. Todo debería estar funcionando correctamente.
 
 - Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada. 
 
