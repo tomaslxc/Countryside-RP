@@ -26,6 +26,8 @@ Sistemas de la GM:
 
 ## ¿Cómo instalo la GM?
 
+
+- Vídeo explicativo por Nothex: https://youtu.be/zkBCVoQWHvY
 - Tenés que descargar los archivos, descomprimirlos e ir a /resources/mysql/sql.lua
 
 -Acá tendrás que agregar tus datos para establecer la conexión mysql
