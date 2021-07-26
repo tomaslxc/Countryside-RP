@@ -35,8 +35,6 @@
         <object name="resource.ajax"></object>
         <object name="resource.dgs"></object>
         <object name="resource.script_editor"></object>
-        <object name="user.Neus"></object>
-        <object name="user.manu12"></object>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>
