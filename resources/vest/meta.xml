@@ -1,0 +1,8 @@
+<meta>
+    <info author="Servidor" name="" type="script" version="1.0"/>
+    <oop>true</oop>
+
+    <script src="LUA/Cliente.lua" type="client" cache="false"/>
+    <script src="LUA/Server.lua" type="server"/>
+
+</meta>
