@@ -39,6 +39,7 @@
         <right name="command.stop" access="true"></right>
         <right name="command.restart" access="true"></right>
         <right name="command.refresh" access="true"></right>
+        <right name="command.debugscript" access="true"></right>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>
