@@ -35,6 +35,10 @@
         <object name="resource.ajax"></object>
         <object name="resource.dgs"></object>
         <object name="resource.script_editor"></object>
+        <right name="command.start" access="true"></right>
+        <right name="command.stop" access="true"></right>
+        <right name="command.restart" access="true"></right>
+        <right name="command.refresh" access="true"></right>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>
