@@ -69,17 +69,78 @@ local screenW, screenH = guiGetScreenSize()
 preguntas = {
 	[1] = {
 		[1] = {"¿Cuál es el concepto fundamental del rol?","Interpretación","Fabulación", "Colaboración","Interpretación"},
-		[2] = {"¿Que harias si ves a un usuario troleando?","Lo insulto","Le empiezo a golpear hasta matarlo", "Le aviso al staff mediante PM que hay un usuario troleando","Le aviso al staff mediante PM que hay un usuario troleando"},
-		[3] = {"","Las etapas de rol son procesos por los cuales pasa un rol en particular","Las etapas de rol es la división de la experiencia de tu personaje por niveles", "Las etapas de rol es la división de las generaciones de tu personaje", "Las etapas de rol es la división de la experiencia de tu personaje por niveles"},
+		[2] = {"¿En qué pueblos está ambientado Countryside Roleplay?","Montgomery, Angel Pine, Blueberry y Dillimore","Fort Carson, Blueberry, Angel Pine y Palomino", "Montgomery, Palomino Creek, Blueberry y Dillimore","Montgomery, Palomino Creek, Blueberry y Dillimore"},
+		[3] = {"¿Qué entiende por “Etapas de rol”?","Las etapas de rol son procesos por los cuales pasa un rol en particular","Las etapas de rol es la división de la experiencia de tu personaje por niveles", "Las etapas de rol es la división de las generaciones de tu personaje", "Las etapas de rol es la división de la experiencia de tu personaje por niveles"},
 		[4] = {"¿Dos personajes de una misma cuenta pueden rolear entre sí?", "Los personajes pueden tener concepciones entre ellos, pero no pueden interactuar entre sí bajo ningún concepto","No, no pueden tener ningún tipo de conocimiento acerca de la existencia del otro", "Sí, según la normativa se puede rolear con dos personajes dentro de una misma cuenta", "Los personajes pueden tener concepciones entre ellos, pero no pueden interactuar entre sí bajo ningún concepto"},
 		[5] = {"¿Está permitido la uso de cuentas ajenas con consentimiento previo?","Sí, está permitido con consentimiento previo y autorización del staff","No, ya que se considera Multicuentas","Sí, está permitido","Sí, está permitido"},
 	},
 	[2] = {
+		[1] = {"Cuando hablamos de CK se puede diferenciar dos tipos, ¿cuáles?","Por circunstancias de rol y por decisión propia","Por etapas de rol y por entorno", "Por entorno y por venganza", "Por circunstancias de rol y por decisión propia"},
+		[2] = {"Deseo ingresar a un trabajo que no sean los disponibles por el ayuntamiento, ¿qué hago?","Procedo a dirigirme hacia la empresa en particular y solicitar el ingreso formalmente a través del dialogo","Procedo a rolear mi currículum dentro del juego, lo presento y espero a que se comuniquen conmigo", "Presento mi currículum en el foro del juego, y espero a que la empresa me llame", "Presento mi currículum en el foro del juego, y espero a que la empresa me llame"},
+		[3] = {"¿Están permitido los dispositivos de grabación roleadas por entorno? (Ejemplo: GoPro, micrófonos, cámaras, etc.)","No, están totalmente prohibidas","Están permitidas con autorización del staff", "Sí, están permitidas sin autorización del staff, tienen un uso libre", "Están permitidas con autorización del staff"},
+		[4] = {"¿Qué entiende por “MC” (Multicuentas)?","Multicuentas es aquel uso desmedido y desregulado de personajes dentro de una cuenta","Multicuentas es la creación desmedida y abusiva de cuentas y personajes para beneficio propio o de terceros", "Multicuentas es la eliminación desmedida y abusiva de cuentas y personajes para beneficio propio o de terceros", "Multicuentas es la creación desmedida y abusiva de cuentas y personajes para beneficio propio o de terceros"},
+		[5] = {"En caso de que un usuario cometa alguna infracción mientras un rol se está llevando a cabo, ¿Cuál es su proceder?","Evito el rol en cuestión y procedo a reportar en el foro","Confronto la situación, frenando el rol y realizo una breve tutoría sobre el error del usuario, para que así no vuelva a cometerlo", "Procedo a seguir el rol pese a las consecuencias que éste traiga, y al finalizar procedo a reportar en foro", "Procedo a seguir el rol pese a las consecuencias que éste traiga, y al finalizar procedo a reportar en foro"},
+	},
+	[3] = {
+		[1] = {"¿Qué se entiende por “Entorno”?","El entorno es el ambiente en el que se ve involucrado nuestro personaje dentro del juego y el cual se puede apreciar gráficamente, por ende, no hace falta rolearlo","El entorno es el ambiente en el que se ve involucrado nuestro personaje dentro del juego y el cual no se puede apreciar gráficamente, por este motivo hay que rolearlo", "El entorno se entiende al conjunto de estados y procesos que se verifican en el espacio físico que se extiende desde la piel hacia el exterior, y que son capaces de afectar el psiquismo de una persona", "El entorno es el ambiente en el que se ve involucrado nuestro personaje dentro del juego y el cual no se puede apreciar gráficamente, por este motivo hay que rolearlo"},
+		[2] = {"¿Qué entiende usted por “CK” (Character Kill)","Entendemos a CK como la muerte total del personaje dentro del servidor","Entendemos a CK como la totalidad que cubre un entorno para llevar a cabo un rol en particular", "Entendemos al CK como la muerte parcial del personaje dentro del servidor", "Entendemos a CK como la muerte total del personaje dentro del servidor"},
+		[3] = {"En el caso de necesitar ayuda, y ningún staff está conectado. ¿Cuál es su proceder?","Procedo a comunicarme por alguna red social del foro, solicitando la ayuda de un staff","Procedo a escribirle personalmente a todos los staffs hasta que uno me conteste", "Espero a que un staff entre al servidor para que me ayude", "Procedo a comunicarme por alguna red social del foro, solicitando la ayuda de un staff"},
+		[4] = {"¿Qué entiende por “Forzar el rol”?","Forzar el rol es una consecuencia de un rol previo mal ejecutado en donde se omitió el entorno","Forzar el rol es una falta la cuál denota cómo un usuario ha provocado que dicho rol se incline a su favor a consciencia, lo cual es sancionable", "Forzar el rol es una consecuencia de un rol previo mal ejecutado en donde se omitió el entorno, lo cual es sancionable", "Forzar el rol es una falta la cuál denota cómo un usuario ha provocado que dicho rol se incline a su favor a consciencia, lo cual es sancionable"},
+		[5] = {"Veo un vehículo abierto, en funcionamiento y decido robarlo. ¿Cómo procedo a robarlo?","Pido la supervisión de un staff y procedo a rolear el robo, roleando abrirlo por entorno, me subo y me voy","Pido la supervisión de un staff, roleo el robo y antes de irme coloco un “/entorno” avisando a la policía del suceso", "Roleo el robo sin supervisión y antes de marcharme, pongo un “/entorno” avisando a la policía del suceso", "Roleo el robo sin supervisión y antes de marcharme, pongo un “/entorno” avisando a la policía del suceso"},
+	},
+	[4] = {
 		[1] = {"¿Qué entiende por MG (Metagaming)?","Metagaming hace alusión a la confusión de conceptos generales de rol","Metagaming es la falta cometida por realizar correctamente un rol en base a las normativas propuestas por el servidor", "Metagaming es la confusión de los canales los cuales, tanto el personaje como el jugador se comunican dentro del juego", "Metagaming es la confusión de los canales los cuales, tanto el personaje como el jugador se comunican dentro del juego"},
 		[2] = {"¿Qué entiende por AB (Admin abuse)?","Admin abuse es un concepto que hace referencia al maltrato entre miembros pertenecientes a la cúpula administrativa","Admin abuse es el poderío que tiene un staff para obtener beneficios propios a costa de usuarios", "Admin abuse hace referencia a los staffs que están esclavizados y los cuales sólo tienen la función de ayudar y no pueden rolear", "Admin abuse es el poderío que tiene un staff para obtener beneficios propios a costa de usuarios"},
 		[3] = {"¿Qué entiende por PG (Power gaming)?","Power gaming es la falta cometida por un usuario el cual ha realizado alguna acción ilógica o, así como también un forcejeo de rol","Power gaming es el error de confundir canales IC del OOC", "Power gaming es la incapacidad de ejecutar un rol en específico, y por ende se recurre al entorno para rolearlas", "Power gaming es la falta cometida por un usuario el cual ha realizado alguna acción ilógica o, así como también un forcejeo de rol"},
 		[4] = {"¿Cuántos canales generales hay para comunicarse dentro del juego?","Hay tres: Global, IC y OOC","Hay dos: IC y OOC", "Hay dos: IG y OOC", "Hay dos: IC y OOC"},
 		[5] = {"¿Qué entiende por IC (In character)?","In character es cuando tú, como usuario, interpreta a su personaje, como si fuese un actor, mediado entre la pantalla y el teclado","In character es cuando tú puedes ser como lo eres en la vida real, sin necesidad de interpretar nada", "In character es la interpretación que los demás personajes le dan al tuyo.", "In character es cuando tú, como usuario, interpreta a su personaje, como si fuese un actor, mediado entre la pantalla y el teclado"},
+	},
+	[5] = {
+		[1] = {"¿Qué entiende por OOC (Out of character)?","Out of character es cuando tú, como usuario, interpreta a su personaje, como si fuese un actor, mediado entre la pantalla y el teclado","Out of character cuando estás interpretando el entorno que hay a tu alrededor", "Out of character es cuando tú puedes ser como lo eres en la vida real, sin necesidad de interpretar nada", "Out of character es cuando tú puedes ser como lo eres en la vida real, sin necesidad de interpretar nada"},
+		[2] = {"Si tu personaje muere por ciertas circunstancias y no hay médicos conectados. ¿Qué se debería de hacer?","Cancelar el rol, cancelando la muerte en cuestión","Rolear tu traslado por entorno hacia el hospital y respawnear pasado el tiempo", "Esperar para respawnear", "Rolear tu traslado por entorno hacia el hospital y respawnear pasado el tiempo"},
+		[3] = {"¿En qué momento se debe de rolear el entorno?","Sólo cuando personas están involucradas en ciertos momentos","En todo el momento", "No es necesario rolearlo", "En todo el momento"},
+		[4] = {"Debido a un bug del juego pierdo objetos. ¿Qué debo de hacer?","Me voy al apartado del foro, relleno el formato para el reporte del bug en  cuestión, presentando pruebas gráficas","Me voy al apartado del foro, escribo un mensaje privado hacia algún miembro del staff explicando mi situación", "Solicito la atención IG de un staff para comentarle mi situación y para que me brinde la ayuda necesaria para recuperar mis objetos", "Me voy al apartado del foro, relleno el formato para el reporte del bug en  cuestión, presentando pruebas gráficas"},
+		[5] = {"Veo a un usuario yendo a 180km por zonas urbanas, me atropella y se da a la fuga. ¿Qué se debería de hacer?","Roleo levantarme y llamar a la policía y a un médico","Rolear las consecuencias, como el posible PK hacia tu personaje", "Procedo a sacar screenshots y dirigirme a foro, para reportarlo por Drive By y Hit Car", "Rolear las consecuencias, como el posible PK hacia tu personaje"},
+
+	},
+	[6] = {
+		[1] = {"¿Qué entiende por “Spam”?","El spam es la repetición de líneas con el mismo significado o la misma oración redactada","El spam es cualquier mensaje enviado a un usuario con fines publicitarios o  comerciales ya sea por redes asociadas al servidor", "El spam es una variedad de carne en lata elaborada por la empresa Hormel Foods Corporation", "El spam es cualquier mensaje enviado a un usuario con fines publicitarios o  comerciales ya sea por redes asociadas al servidor"},
+		[2] = {"¿Cómo puedo ser dueño de una empresa?","Presentando mi currículum como aspirante de una empresa","Estar en la etapa 3 de nivel de rol, tener dinero y adquirir una", "Estar en la etapa 2 de nivel de rol, tener dinero y adquirir una", "Estar en la etapa 3 de nivel de rol, tener dinero y adquirir una"},
+		[3] = {"¿Qué se entiende por DM (Deathmatch)?","Deathmatch es la acción de agredir a un personaje sin ningún motivo o rol previo","Deathmatch es un evento que se realiza en donde usuarios participan en un Derby", "Deathmatch es un evento que se realiza en dónde el staff autoriza un día en dónde se declara un estado anárquico, y en donde los usuarios hacen lo que quieren", "Deathmatch es la acción de agredir a un personaje sin ningún motivo o rol previo"},
+		[4] = {"¿Cómo puedo subir mi etapa de rol?","Comprando monedas virtuales del servidor para levelearlas","Aprobando el test inicial, presentando la ficha del personaje y aprobando la certificación", "Presentando solamente la ficha del personaje para subir al nivel 1, y luego se deberán comprar monedas virtuales para subir la capacidad de tu personaje", "Aprobando el test inicial, presentando la ficha del personaje y aprobando la certificación"},
+		[5] = {"¿Cuáles de las siguientes acciones se considera HC (Hit Car)?","Una situación de Hit Car sería un choque de unos vehículos, en un lugar determinado","Se puede considerar como Hit Car el golpear un vehículo sin motivo ni rol", "Se considera Hit Car al momento de tener un choque con algún vehículo robado", "Se puede considerar como Hit Car el golpear un vehículo sin motivo ni rol"},
+
+	},
+	[7] = {
+		[1] = {"¿Cuál de los siguientes conceptos existen en la terminología de Countryside?","LS: LastHit","CB: CarAbuse", "Las dos son incorrectas", "Las dos son incorrectas"},
+		[2] = {"Marque la respuesta correcta para evidenciar un AutoCar","La terminología no existe","En una persecución, se ignora por completo el entorno", "Un sujeto se sube sin rolear a un auto y lo roba sin rol", "La terminología no existe"},
+		[3] = {"¿Qué es el 4x4?","En términos matemáticos, 16.","Se entiende al 4x4 como ignorar el rol de entorno e ir manejando por montañas y bosques, como, por ejemplo, en una persecución", "La A y B son correctas", "La A y B son correctas"},
+		[4] = {"Marque la respuesta correcta para evidenciar una evasión del rol de entorno","Liar un cigarrillo de marihuana en el departamento policial","Entrar a un quirófano, el cual tiene la puerta cerrada, sin permiso de los médicos", "Ambas respuestas son correctas", "Ambas respuestas son correctas"},
+		[5] = {"Marque la respuesta correcta para evidenciar un DeathMatch","Veo a un sujeto de la pandilla enemiga y empiezo a dispararle a quemarropa hasta que lo mato","Ninguna respuesta evidencia un DeathMatch", "Un sujeto me choca, me bajo del coche, empezamos a discutir y empiezo a golpearlo hasta dejarlo inconsciente", "Ninguna respuesta evidencia un DeathMatch"},
+
+	},
+	[8] = {
+		[1] = {"Veo a unos sujetos en altas horas de la madrugada en una esquina, hablando y pasándose cosas sospechosamente, ¿qué procede a hacer?","Dependería de la psicología de mi personaje, y de lo que él y el rol me pida hacer","Procedo a contactar con un staff para que los vigile en caso de estar haciendo MG", "Llamaría a la policía", "Dependería de la psicología de mi personaje, y de lo que él y el rol me pida hacer"},
+		[2] = {"¿Un sujeto en la etapa de rol número dos, puede ejercer una facción legal?","Sí","No", "Dependería no sólo de la etapa de rol, sino a más variables justificables que avalen al sujeto a ejercer dentro de dicha facción", "No"},
+		[3] = {"Evidencie entre respuestas, un MG","Utilizar la información que me pasó un socio por Discord para emboscar a una pandilla enemiga","Seguir a un auto de la mafia durante días para trazar su rutina", "Negociar con el alcalde para tener ciertos beneficios", "Utilizar la información que me pasó un socio por Discord para emboscar a una pandilla enemiga"},
+		[4] = {"Quiero formar parte del cuerpo administrativo, ¿qué puedo hacer?","Presentar el currículo OOC al apartado de “Anuncios administrativos” del foro","Comunicarme con algún staff y pedirle que me recomiende", "Esperar a las siguientes elecciones", "Esperar a las siguientes elecciones"},
+		[5] = {"Quiero usurpar una casa, ¿cuál es el procedimiento?","No está permitido","Me comunico con un staff para que me spectee, realizo el rol y pago un cierto porcentaje", "No roleo nada, y me comunico con un staff diciéndole que ya he roleado la apertura de la casa", "Me comunico con un staff para que me spectee, realizo el rol y pago un cierto porcentaje"},
+
+	},
+	[9] = {
+		[1] = {"He sido sancionado con un baneo permanente, pero quiero volver a jugar, ¿qué puedo hacer?","Empiezo a mandarle muchos mensajes a los staffs para que me desbaneen","Espero a la siguiente oleada de desbaneos que se realiza cada 3 meses", "Solicitar un desbaneo en el apartado de “Apelaciones de baneo” explicando el motivo por el cual deberían desbanearme", "Solicitar un desbaneo en el apartado de “Apelaciones de baneo” explicando el motivo por el cual deberían desbanearme"},
+		[2] = {"He realizado un mapeado y quiero que lo metan, ¿cuál es el procedimiento?","Mandarle el mapeado a un staff y solicitarlo que lo meta","Esperar la aprobación del gobierno y pagar su construcción para que lo meta", "Las dos son incorrectas", "Esperar la aprobación del gobierno y pagar su construcción para que lo meta"},
+		[3] = {"IG mi personaje ha fumado marihuana y justo para una patrulla en frente, ¿qué hago?","No mencionar nunca, tanto por /me o por /do de que he fumado","Rolear el estado estupefacto y así como el olor y abstenerme a las consecuencias", "Me desconecto hasta que finalice el rol", "Rolear el estado estupefacto y así como el olor y abstenerme a las consecuencias"},
+		[4] = {"Quiero realizar un CK, ¿cuál es el procedimiento necesario?","Tener un arma que no sea por entorno","Tener motivos necesarios para realizarle el CK a la persona", "Ambas respuestas son correctas", "Ambas respuestas son correctas"},
+		[5] = {"¿Necesito el consentimiento de la víctima para realizar un CK?","No","Sí", "Sí, aunque este consentimiento se anula al tener motivos de peso.", "Sí, aunque este consentimiento se anula al tener motivos de peso."},
+
+	},
+	[10] = {
+		[1] = {"¿Puedo utilizar IG nombres de personas famosas OOC?","Sí","Debo solicitar el permiso a un staff", "No", "No"},
+		[2] = {"¿Qué entiende por “IG”?","Introduction of the Game","In Game", "Intrageneracional", "In Game"},
+		[3] = {"¿Cuáles de estas respuesta considera que es acertada para hablar de la abreviación “IC”?","Mi personaje se fue a tomar una soda","Yo me voy a tomar una soda", "Yo hablo con un staff para que me spectee", "Mi personaje se fue a tomar una soda"},
+		[4] = {"Veo a un sujeto en la calle, el cuál se llama Marcos, pero no lo conozco de ningún sitio, observo su tag y procedo a hablar IC, saludándolo por su nombre, ¿qué falta estaría cometiendo?","Estaría forzando el rol","Estaría cometiendo evasión de entorno", "Estaría cometiendo MG", "Estaría cometiendo MG"},
+		[5] = {"¿Cuál de estas acciones es motivo de ban permanente?","Publicitar otros servidores en nuestro servidor","Publicitar nuestro servidor en otros servidores", "Ambas son correctas", "Ambas son correctas"},
 
 	}
 }
@@ -109,6 +170,14 @@ selec10 = false
 function iniciarCertificacion(p1,p2,p3,p4,p5,p6,p7,p8,p9,p10)
 	preg1 = p1
 	preg2 = p2
+	preg3 = p3
+	preg4 = p4
+	preg5 = p5
+	preg6 = p6
+	preg7 = p7
+	preg8 = p8
+	preg9 = p9
+	preg10 = p10
 	panel1 = true
 	setCameraMatrix (1285.1767578125, -1455.205078125, 225.78584289551, 1268.3671875, -1574.845703125, 177.36140441895, 0,0 )
 	showCursor(true)
@@ -377,6 +446,101 @@ function certiclick ( button, state)
 				selec1 = 2
 				elseif panel2 then
 				selec6 = 2
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.2611, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P1:R3
+				selec1 = 3
+				elseif panel2 then
+				selec6 = 3
+				end
+			end
+			--pregunta2 y pregunta7
+			if isCursorHover(screenW * 0.1, screenH * 0.3378, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P2:R1
+				selec2 = 1
+				elseif panel2 then--P7:R1
+				selec7 = 1
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.3667, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P2:R2
+				selec2 = 2
+				elseif panel2 then--P7:R2
+				selec7 = 2
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.3956, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P2:R3
+				selec2 = 3
+				elseif panel2 then--P7:R3
+				selec7 = 3
+				end
+			end
+			---pregunta3 y pregunta 8
+			if isCursorHover(screenW * 0.1, screenH * 0.4744, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P3:R1
+				selec3 = 1
+				elseif panel2 then--P8:R1
+				selec8 = 1
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.5033, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P3:R2
+				selec3 = 2
+				elseif panel2 then--P8:R2
+				selec8 = 2
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.5322, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P3:R3
+				selec3 = 3
+				elseif panel2 then--P8:R3
+				selec8 = 3
+				end
+			end
+			---pregunta 4 y pregunta 9
+			if isCursorHover(screenW * 0.1, screenH * 0.6089, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P4:R1
+				selec4 = 1
+				elseif panel2 then--P9:R1
+				selec9 = 1
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.6378, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P4:R2
+				selec4 = 2
+				elseif panel2 then--P9:R2
+				selec9 = 2
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.6667, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P4:R3
+				selec4 = 3
+				elseif panel2 then--P9:R3
+				selec9 = 3
+				end
+			end
+			--pregunta5 y pregunta10
+			if isCursorHover(screenW * 0.1, screenH * 0.7444, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P5:R1
+				selec5 = 1
+				elseif panel2 then--P10:R1
+				selec10 = 1
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.7733, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P5:R2
+				selec5 = 2
+				elseif panel2 then--P10:R2
+				selec10 = 2
+				end
+			end
+			if isCursorHover(screenW * 0.1, screenH * 0.8022, screenW * 0.0106, screenH * 0.0178) then 
+				if panel1 then-- P5:R3
+				selec5 = 3
+				elseif panel2 then--P10:R3
+				selec10 = 3
 				end
 			end
 		-----
@@ -1451,7 +1615,7 @@ end
 addEventHandler("onClientRender", root,
     function()
 		if isSceneFirst then
-        dxDrawText("El tren ha llegado a la ciudad\n\nBienvenido/a a\n      Idlewood Roleplay", screenW * 0.2150, screenH * 0.2311, screenW * 0.5663, screenH * 0.3767, tocolor(2,105,156, 255), 1, r_main, "center", "center", false, false, false, false, false)
+        dxDrawText("Has llegado a la ciudad\n\nBienvenido/a a\n      Idlewood Roleplay", screenW * 0.2150, screenH * 0.2311, screenW * 0.5663, screenH * 0.3767, tocolor(2,105,156, 255), 1, r_main, "center", "center", false, false, false, false, false)
 
 		end
 	end
