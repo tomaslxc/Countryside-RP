@@ -55,6 +55,7 @@ Sistemas de la GM:
 - Nuestro mtaserver.conf inicia todos los recursos y/o mapas, si al ingresar al servidor no podes ver algunos paneles; reiniciá el panel que no se vé (`Esto solo puede suceder la primera vez que se inicia`)
 
 # CRÉDITOS
+* Según nuestra licencia, nadie se encuentra autorizado para vender scripts, nuestra GM o modificaciones de la misma.
 
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
