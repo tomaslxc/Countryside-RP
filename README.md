@@ -64,3 +64,5 @@ Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
 - Aleks y yo decidimos públicar la GAMEMODE debido al robo de la misma; nadie más se encuentra autorizado ni es dueño de dicha gamemode.
 
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
+
+Servidor activo (mío) Vest Roleplay : https://discord.gg/hY5S6qdUFj
