@@ -1,5 +1,5 @@
 <meta>
-	<info author="ouke" description="Skins Prueba" version="1.0" type="script" />
+	<info author="Neus" description="Skins Prueba" version="1.0" type="script" />
 	
 	<script src="client.lua" type="client" />
 	
