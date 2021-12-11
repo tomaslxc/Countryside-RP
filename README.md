@@ -66,3 +66,5 @@ Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
 
 Servidor activo (mío) Vest Roleplay : https://vest-rp.com
+
+Discord: Tomás N.#1420
