@@ -45,7 +45,7 @@ Sistemas de la GM:
 **No es necesario agregar módulos a mtaserver.conf (si se agrega puede ocacionar errores)**
 
 
-- Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada. 
+- Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada (Entonces deberás realizar otro sistema de concesionario). 
 
 
 
@@ -64,7 +64,5 @@ Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
 - Aleks y yo decidimos públicar la GAMEMODE debido al robo de la misma; nadie más se encuentra autorizado ni es dueño de dicha gamemode.
 
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
-
-Servidor activo (mío) Vest Roleplay : https://vest-rp.com
 
 Discord: Tomás N.#1420
