@@ -52,7 +52,7 @@ Sistemas de la GM:
 
 # INFORMACIÓN
 
-- Nuestro mtaserver.conf inicia todos los recursos y/o mapas, si al ingresar al servidor no podes ver algunos paneles; reiniciá el panel que no se vé (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
+- Nuestro mtaserver.conf inicia todos los recursos escritos y/o mapas, de igual manera reiniciá los siguientes resources para evitar errores (primero login y luego personajes) `login, personajes, facciones, banks, ferreteria, scoreboard` (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
 
 # CRÉDITOS
 * Según nuestra licencia, nadie se encuentra autorizado para vender scripts, nuestra GM o modificaciones de la misma.
@@ -66,3 +66,4 @@ Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
 
 Discord: Tomás N.#1420
+Respondo dudas en https://discord.gg/mGbeq2dBdg
