@@ -45,7 +45,7 @@ Sistemas de la GM:
 **No es necesario agregar módulos a mtaserver.conf (si se agrega puede ocacionar errores)**
 
 
-- Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada (Entonces deberás realizar otro sistema de concesionario). 
+- --Algunos sistemas opcionales, cómo **concesionario** necesitan ser vinculados a la PCU; dicha PCU no será públicada (Entonces deberás realizar otro sistema de concesionario)--. 
 
 
 
