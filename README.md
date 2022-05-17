@@ -52,14 +52,14 @@ Sistemas de la GM:
 
 # INFORMACIÓN
 
-- Nuestro mtaserver.conf inicia todos los recursos escritos y/o mapas, de igual manera reiniciá los siguientes resources para evitar errores (primero login y luego personajes) `login, personajes, facciones, banks, ferreteria, scoreboard` (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
+- Nuestro mtaserver.conf inicia todos los recursos escritos y/o mapas, de igual manera reiniciá los siguientes resources para evitar errores o paneles que no aparecen (primero login y luego personajes) `login, personajes, facciones, banks, ferreteria, scoreboard` (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
 
 # CRÉDITOS
 * Según nuestra licencia, nadie se encuentra autorizado para vender scripts, nuestra GM o modificaciones de la misma.
 
 Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/40470-mraleks/)
 
-Actualmente se llama **Vest Roleplay** débido a que fué mi último proyecto.
+Actualmente se llama **Vest Roleplay ó Idlewood** débido a que fueron mis últimos proyectos.
 
 - Aleks y yo decidimos públicar la GAMEMODE debido al robo de la misma; nadie más se encuentra autorizado ni es dueño de dicha gamemode.
 
@@ -67,3 +67,5 @@ Post en dónde estaré comentando información: https://forum.mtasa.com/topic/13
 
 Discord: Tomás N.#1420
 Respondo dudas en https://discord.gg/mGbeq2dBdg
+
+# DATO: Ninguno de los nombres (de servidores) dicho anteriormente está activo, todo servidor activo es una copia o un impostor (Igualmente no tengo problema almenos de que no se hagan pasar por mí, por Aleks ó anden diciendo que son propietarios de dicha GM)
