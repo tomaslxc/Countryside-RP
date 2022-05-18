@@ -52,7 +52,7 @@ Sistemas de la GM:
 
 # INFORMACIÓN
 
-- Nuestro mtaserver.conf inicia todos los recursos escritos y/o mapas, de igual manera reiniciá los siguientes resources para evitar errores o paneles que no aparecen (primero login y luego personajes) `login, personajes, facciones, banks, ferreteria, scoreboard` (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
+- Nuestro mtaserver.conf inicia todos los recursos escritos y/o mapas, de igual manera reiniciá los siguientes resources para evitar errores o paneles que no aparecen (primero login y luego personajes) `login, personajes, facciones, bank, ferreteria, scoreboard, ayuda` (`Esto solo sucede la primera vez, es decir cuando prendés el servidor.`)
 
 # CRÉDITOS
 * Según nuestra licencia, nadie se encuentra autorizado para vender scripts, nuestra GM o modificaciones de la misma.
