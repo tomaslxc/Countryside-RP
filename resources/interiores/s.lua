@@ -209,6 +209,7 @@ addEventHandler("onResourceStart", resourceRoot, loadInteriors)
 posout = {}
 
 function creartp (player,cmd,tipo,nombre,faccID)
+	if getElementData(player, "isLoged") and getElementData(player, "staff") >= 5 then
 	if tipo then
 		if tipo == "1" then
 			if not posout[player] then
@@ -274,6 +275,7 @@ function creartp (player,cmd,tipo,nombre,faccID)
 	outputChatBox("Syntax: /"..cmd.." [tipo (1-out, 2-in)] [nombre]",player, 255,255,255)
 	end
 end
+end
 addCommandHandler("creartp",creartp)
 
 function getCharacterPropiedades( name )
@@ -292,7 +294,7 @@ function getCharacterPropiedades( name )
 end
 
 function creartpint (player,cmd,tipo,precio,g,nombre)
-
+	if getElementData(player, "isLoged") and getElementData(player, "staff") >= 5 then
 	if tipo and nombre and tonumber(precio) and tonumber(g) then
 		local interio = interiorPositions[ tipo:lower( ) ]
 		if interio then
@@ -371,6 +373,7 @@ function creartpint (player,cmd,tipo,precio,g,nombre)
 	else
 	outputChatBox("Syntax: /"..cmd.." [tipo] [precio] [2=gob, 3=venta_casa, 4=venta_negocio] [nombre]",player, 255,255,255)
 	end
+end
 end
 addCommandHandler("crearint",creartpint)
 
