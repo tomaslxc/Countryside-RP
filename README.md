@@ -65,7 +65,6 @@ Actualmente se llama **Vest Roleplay ó Idlewood** débido a que fueron mis últ
 
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
 
-Discord: Tomás N.#1420
-Respondo dudas en https://discord.gg/mGbeq2dBdg
+Discord: Tomás N.#1420 (Sin soporte)
 
 # DATO: Ninguno de los nombres (de servidores) dicho anteriormente está activo, todo servidor activo es una copia o un impostor (Igualmente no tengo problema almenos de que no se hagan pasar por mí, por Aleks ó anden diciendo que son propietarios de dicha GM)
