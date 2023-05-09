@@ -1,7 +1,7 @@
 # Countryside-RP
 
 (**Aleks** no dará soporte de la misma, cualquiera duda solo la responderé yo)
-En este repositorio publiqué la gamemode desarrollada de 0 por **ALEKS** y modificada por mí (Tomás N.), unos usuarios de la comunidad me la robaron y con Aleks coincidimos en libelarla.
+En este repositorio publiqué la gamemode desarrollada de 0 por **ALEKS** y modificada por mí (Tomás N.), unos ex colaboradores la ultizaron sin autorización y con Aleks coincidimos en libelarla.
 
 Nuestra GM no usa niveles, tenemos algo llamado **Etapa de Rol** (Esto se vé en el tabulador), el primer ER se consigue pasando el test de rol, los demás se dan cuando ese usuario crea su Historia de personaje (Apartir de 2 en adelante los tiene que dar un STAFF, es decir que vos controlas de que forma das los E.R )
 
