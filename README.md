@@ -61,8 +61,6 @@ Créditos a Aleks como dueño y desarrollador. (https://forum.mtasa.com/profile/
 
 Actualmente se llama **Vest Roleplay ó Idlewood** débido a que fueron mis últimos proyectos.
 
-- Aleks y yo decidimos públicar la GAMEMODE debido al robo de la misma; nadie más se encuentra autorizado ni es dueño de dicha gamemode.
-
 Post en dónde estaré comentando información: https://forum.mtasa.com/topic/131823-gm-countryside-roleplay-de-0/
 
 Discord: **tomasnnz**
